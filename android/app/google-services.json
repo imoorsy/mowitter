@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643961194480",
+    "project_id": "mowitter",
+    "storage_bucket": "mowitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643961194480:android:1bf46c0a36b853332dbf35",
+        "android_client_info": {
+          "package_name": "com.example.mowitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643961194480-he256tajbrrsmid9ke97e4hfsb8itiov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVas0QG1xiY7J2eYHlSAzrw8oyWZDbNkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643961194480-he256tajbrrsmid9ke97e4hfsb8itiov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

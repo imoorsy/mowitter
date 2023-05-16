@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>643961194480-abbt4qmudp1o9jp7u9jjet6uni6k5d2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.643961194480-abbt4qmudp1o9jp7u9jjet6uni6k5d2r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDHIrK4Ze6Iz5pA2_CKUKhIN0JXv58d_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>643961194480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mowitter</string>
+	<key>PROJECT_ID</key>
+	<string>mowitter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mowitter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:643961194480:ios:7688ef11d220ec9b2dbf35</string>
+</dict>
+</plist>
